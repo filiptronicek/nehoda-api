@@ -1,0 +1,22 @@
+{
+  "name": "nehoda-api",
+  "version": "1.0.0",
+  "description": "A REST API for car crashes and accidents in the Czech republic",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filiptronicek/nehoda-api.git"
+  },
+  "author": "Filip Troníček",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filiptronicek/nehoda-api/issues"
+  },
+  "homepage": "https://github.com/filiptronicek/nehoda-api#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
